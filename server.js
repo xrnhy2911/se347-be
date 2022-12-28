@@ -33,7 +33,7 @@ const options = {
         },
         servers: [
             {
-                url: 'http://localhost:8000/'
+                url: 'https://se347-be.onrender.com/'
             }
         ]
     },
